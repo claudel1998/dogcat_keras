@@ -6,6 +6,7 @@ import os, sys
 import zipfile
 from math import ceil
 import time
+#edited copy
 
 
 BYTES_PER_MB = 1024 * 1024
